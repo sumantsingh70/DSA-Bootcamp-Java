@@ -7,12 +7,12 @@
 # Problems:
 
 ## Easy
-- [Square Root](https://leetcode.com/problems/sqrtx/)
-- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [Square Root](https://leetcode.com/problems/sqrtx/)#done(d)
+- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)#done(d)
+- [First Bad Version](https://leetcode.com/problems/first-bad-version/)#done(d)
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
-- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)#done
+- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)#done(d)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
